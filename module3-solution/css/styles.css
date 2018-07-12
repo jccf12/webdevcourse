@@ -1,0 +1,63 @@
+ @media (min-width: 768px) {
+
+#collapsable-nav {
+   	 display: none!important;
+	}
+}
+
+#nav-list {
+	margin-top: 10px;
+}
+
+
+.navbar.navbar-default {
+	background-color:#d0d0d0;
+}
+
+#title-navbar {
+	color: #000;
+}
+
+#header-nav {
+	border-color: #000;
+	border-width: 1px;
+}
+
+.navbar-header button.navbar-toggle {
+	border:1px solid #000;
+}
+
+.navbar-header button.navbar-toggle:hover {
+	background-color: #f0f0f0;
+}
+
+.navbar-header .icon-bar {
+	border:2px solid #000;
+}
+
+
+#collapsable-nav ul {
+	margin: 0px -16px 0px -16px;
+}
+
+#collapsable-nav a {
+	border:1px solid #000;
+	margin-bottom:-1px; 
+}
+
+#collapsable-nav a span{
+	color:#000;
+}
+
+#body-title {
+	margin-top: 0px;
+	font-size: 20px;
+}
+
+#mytext {
+	border:1px solid #000;
+	background-color: #d6d6d6;
+	padding: 8px 8px 8px 8px;
+	margin:20px 10px 10px 10px;
+	text-align: justify;
+}
