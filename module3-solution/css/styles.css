@@ -1,4 +1,8 @@
- @media (min-width: 768px) {
+#header-nav {
+	border-radius: 0;
+}
+
+@media (min-width: 768px) {
 
 #collapsable-nav {
    	 display: none!important;
