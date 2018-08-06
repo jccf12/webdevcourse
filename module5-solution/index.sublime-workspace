@@ -1,0 +1,450 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"backur",
+				"background\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"tetal",
+				"text-align\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"pul",
+				"pull-right"
+			],
+			[
+				"bo",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"col-xs",
+				"col-xs-6"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"vis",
+				"visible-lg"
+			],
+			[
+				"visible",
+				"visible-sm"
+			],
+			[
+				"coll",
+				"collapse"
+			],
+			[
+				"visib",
+				"visible-lg"
+			],
+			[
+				"visi",
+				"visible-sm"
+			],
+			[
+				"borders",
+				"border-style\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"padi",
+				"padding-left\tproperty"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"contai",
+				"container-fluid"
+			],
+			[
+				"e",
+				"extra-expanded\tfont-stretch"
+			],
+			[
+				"fonthe",
+				"font-stretch\tproperty"
+			],
+			[
+				"u",
+				"ultra-expanded\tfont-stretch"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"col",
+				"col-centered"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"MAR",
+				"margin-left\tproperty"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"first",
+				"firstLetter"
+			],
+			[
+				"char",
+				"charAt"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"backgrou",
+				"background-position\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"pu",
+				"pull-left"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"colla",
+				"collapsable-nav"
+			],
+			[
+				"nab",
+				"navbar-default"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"b",
+				"border-color\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"borde",
+				"border-style\tproperty"
+			],
+			[
+				"backgorund-c",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/juan/Documents/GitHub/fullstack-course4/assignments/assignment5/Assignment-5.md",
+		"/Users/juan/Documents/GitHub/dBay/comingsoon/css/styles.css",
+		"/Users/juan/Documents/GitHub/dBay/comingsoon/index.html",
+		"/Users/juan/Documents/GitHub/dBay/webpage/getstarted.html",
+		"/Users/juan/Documents/GitHub/dBay/webpage/marketplace.html",
+		"/Users/juan/Documents/GitHub/dBay/webpage/about.html",
+		"/Users/juan/Documents/GitHub/dBay/webpage/index.html",
+		"/Users/juan/Documents/GitHub/dBay/webpage/css/bootstrap.css",
+		"/Users/juan/Documents/GitHub/dBay/webpage/css/styles.css",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture55/index.html",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture35/after/css/styles.css",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture35/after/index.html",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture36/after/css/styles.css",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture36/after/index.html",
+		"/Users/juan/Documents/GitHub/dBay/test/css/styles.css",
+		"/Users/juan/Documents/GitHub/dBay/test/index.html",
+		"/Users/juan/Documents/GitHub/dBay/comingsoon/css/bootstrap.css",
+		"/Users/juan/Documents/GitHub/webdevcourse/module4-solution/script.js",
+		"/Users/juan/Documents/GitHub/webdevcourse/module4-solution/index.html",
+		"/Users/juan/Documents/GitHub/webdevcourse/mod4-solutioneasy/script.js",
+		"/Users/juan/Documents/GitHub/fullstack-course4/assignments/assignment4/assignment4-solution-starter/easier/script.js",
+		"/Users/juan/Documents/GitHub/webdevcourse/module3-solution/css/styles.css",
+		"/Users/juan/Documents/GitHub/webdevcourse/module3-solution/index.html",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture31/after/index.html",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture33/after/index.html",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture32/after/index.html",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture30/after/css/styles.css",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture30/after/index.html",
+		"/Users/juan/Documents/GitHub/dBay/index.html",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture31/after/css/styles.css",
+		"/Users/juan/Documents/GitHub/webdevcourse/module3-solution/css/bootstrap.css",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture25/index.html",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture25/css/styles.css",
+		"/Users/juan/Documents/GitHub/webdevcourse/module2-solution/test.html",
+		"/Users/juan/Documents/GitHub/webdevcourse/module2-solution/index.html",
+		"/Users/juan/Documents/GitHub/webdevcourse/module2-solution/cssfile.css",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture16/style.css",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture16/style-placement.html",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture23/media-queries-after.html",
+		"/Users/juan/Documents/GitHub/webdevcourse/module2-solution/css/cssfile.css",
+		"/Users/juan/Documents/GitHub/webdevcourse/module2-solution/css/cssfile",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture04/doc-structure-before.html",
+		"/Users/juan/Documents/GitHub/webdevcourse/site/index.html",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture01/structure-only-after.html",
+		"/Users/juan/Documents/GitHub/fullstack-course4/examples/Lecture01/structure-only-before.html",
+		"/Users/juan/test_site/index.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/GitHub/dBay/webpage/css/styles.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
